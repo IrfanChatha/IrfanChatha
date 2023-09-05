@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanchatha&label=Profile%20views&color=0e75b6&style=flat" alt="irfanchatha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfanchatha" alt="irfanchatha" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/imchatha" target="blank"><img src="https://img.shields.io/twitter/follow/imchatha?logo=twitter&style=for-the-badge" alt="imchatha" /></a> </p>
 
 - 🔭 I’m currently working on **React JS Projects**
@@ -33,8 +31,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/imchatha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imchatha" /></a></p><br><br>
 
+<p>&nbsp;<br><img align="left" src="https://github-readme-stats.vercel.app/api?username=irfanchatha&show_icons=true&locale=en" alt="irfanchatha" /></p>
+
+<p><br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanchatha&" alt="irfanchatha" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanchatha&show_icons=true&locale=en&layout=compact" alt="irfanchatha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfanchatha&show_icons=true&locale=en" alt="irfanchatha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanchatha&" alt="irfanchatha" /></p>
