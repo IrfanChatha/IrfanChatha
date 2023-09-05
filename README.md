@@ -1,6 +1,6 @@
-### Hi there 👋 I am Irfan Chatha (Web and Mobile App Developer)
+### Hi there 👋 I am Irfan Maqbool Chatha (Web and Mobile App Developer)
 
-I am a student of Web and Mobile App Development Course at SMIT, Faisalabad. Apart from that I am seasonal developer that loves coding, designing and contributing to open source projects.
+Currently a student of Web and Mobile App Development Course at SMIT, Faisalabad. Apart from that I am seasonal developer that loves coding, designing and contributing to open source projects.
 
 **My Research Interest**:
 - Outlying Aspect Mining
