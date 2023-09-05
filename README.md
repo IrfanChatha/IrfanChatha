@@ -49,6 +49,7 @@ Currently a student of Web and Mobile App Development Course at SMIT, Faisalabad
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/im.chatha)
 </p>
 
+- 📫 How to reach me **imchatha@hotmail.com**
 
 <!--
 **IrfanChatha/IrfanChatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
