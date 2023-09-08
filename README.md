@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **imchatha@hotmail.com**
 
-- ⚡ Fun fact **IT Professional**
+- ⚡ IT Experience **20+ years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
