@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React JS Projects**
 
-- 🌱 I’m currently learning **React JS at SMIT and Next JS at PIAIC**
+- 🌱 I’m currently learning **React JS at SMIT and Advance TypeScript at PIAIC**
 
 - 👯 I’m looking to collaborate on **HTML, CSS, Javascript**
 
