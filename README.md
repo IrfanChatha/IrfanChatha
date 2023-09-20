@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **HTML, CSS, Javascript**
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS and Javascript**
 
 - 📫 How to reach me **imchatha@hotmail.com**
 
