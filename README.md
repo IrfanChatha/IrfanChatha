@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/imchatha" target="blank"><img src="https://img.shields.io/twitter/follow/imchatha?logo=twitter&style=for-the-badge" alt="imchatha" /></a> </p>
 
-- 🔭 I’m currently working on **React JS Projects (beginner to intermediate level)**
+- 🔭 I’m currently working on **React JS Projects (beginner to intermediate level)..**
 
-- 🌱 I’m currently learning **React JS at SMIT and Advance TypeScript at PIAIC**
+- 🌱 I’m currently learning **React JS at SMIT and Advance TypeScript at PIAIC..**
 
 - 👯 I’m looking to collaborate on **HTML, CSS and Javascript**
 
