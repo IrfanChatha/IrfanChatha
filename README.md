@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React JS and Next JS Projects (beginner to intermediate level)**
 
-- 🌱 I’m currently learning **React JS at SMIT and Advance TypeScript at PIAIC Faisalabad**
+- 🌱 I’m currently learning **React JS at SMIT and Advance TypeScript, Next JS at PIAIC Faisalabad and Online Python Crash Course**
 
 - 👯 I’m looking to collaborate on **HTML, CSS and Javascript**
 
