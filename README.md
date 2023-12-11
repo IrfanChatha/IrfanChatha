@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irfan Maqbool Chatha</h1>
-<h3 align="center">Senior IT Professional and passionate Web Developer</h3>
+<h3 align="center">Senior IT Professional & passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanchatha&label=Profile%20views&color=0e75b6&style=flat" alt="irfanchatha" /> </p>
 
