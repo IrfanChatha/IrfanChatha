@@ -38,14 +38,6 @@
 
 <br />
   
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanchatha&theme=algolia" alt="irfanchatha" /></p>
-
 <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=irfanchatha&column=6&theme=algolia" alt="irfanchathaTrophy" /></p>
 
-
-
- ![john's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=irfanchatha&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
- 
- <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=irfanchatha.irfanchatha" alt="irfanchatha" />
-
-</p>
+![john's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=irfanchatha&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
