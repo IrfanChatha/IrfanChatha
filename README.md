@@ -34,4 +34,23 @@
 <p><br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanchatha&" alt="irfanchatha" /></p>
 
 <p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanchatha&show_icons=true&locale=en&layout=compact" alt="irfanchatha" /></p>
-![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg)
+
+
+<p align="center">
+<a href="https://github.com/HighTechular95908">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HighTechular95908&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HighTechular95908&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+ <br />
+  
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HighTechular95908&theme=algolia" alt="HighTechular95908" /></p>
+
+<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=HighTechular95908&column=6&theme=algolia" alt="HighTechular95908Trophy" /></p>
+
+
+
+ ![john's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=HighTechular95908&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+ 
+ <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=HighTechular95908.HighTechular95908" alt="HighTechular95908" />
+
+</p>
