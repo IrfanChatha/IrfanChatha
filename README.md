@@ -34,3 +34,4 @@
 <p><br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanchatha&" alt="irfanchatha" /></p>
 
 <p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanchatha&show_icons=true&locale=en&layout=compact" alt="irfanchatha" /></p>
+![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg)
