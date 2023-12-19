@@ -31,10 +31,10 @@
 
 <p align="center">&nbsp;<br><img align="center" src="https://github-readme-stats.vercel.app/api?username=irfanchatha&show_icons=true&locale=en" alt="irfanchatha" /></p>
 
-<p><br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanchatha&" alt="irfanchatha" /></p>
+<p align="left"><br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanchatha&" alt="irfanchatha" /></p>
 <br />
 
-<p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanchatha&show_icons=true&locale=en&layout=compact" alt="irfanchatha" /></p>
+<p align="right"><br><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanchatha&show_icons=true&locale=en&layout=compact" alt="irfanchatha" /></p>
 
 
 <br />
