@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Next JS Projects (Beginner to Intermediate level)**
 
-- 🌱 I’m currently learning **React JS & React Native at SMIT and Advance Next JS at PIAIC Faisalabad and Online Python Crash Course**
+- 🌱 I’m currently learning **React JS and React Native at SMIT and Advance Next JS at PIAIC Faisalabad and Online Python Crash Course**
 
 - 👯 I’m looking to collaborate on **HTML, CSS and Javascript**
 
