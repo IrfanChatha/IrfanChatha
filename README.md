@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advance Next JS at PIAIC Faisalabad & Online Python Crash Course**
 
-- 👯 I’m looking to collaborate on **HTML, CSS, Javascript and TypeScript**
+- 👯 I’m looking to collaborate on **HTML, CSS, Javascript & TypeScript**
 
 - 💬 Ask me about **HTML, CSS and Javascript**
 
