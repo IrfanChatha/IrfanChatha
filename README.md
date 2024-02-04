@@ -1,6 +1,6 @@
 ![NewTopWave](https://user-images.githubusercontent.com/81550376/180223627-d18d8aeb-4f5e-4715-94db-65b1b85822f1.svg)
 <h1 align="center">Hi 👋, I'm Irfan Maqbool Chatha</h1>
-<h3 align="center">Senior IT Professional & passionate Web Developer</h3>
+<h3 align="center">Senior IT Professional and passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanchatha&label=Profile%20views&color=0e75b6&style=flat" alt="irfanchatha" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Next JS Projects (Beginner to Intermediate level)**
 
-- 🌱 I’m currently learning **Advance Next JS and Python at PIAIC Faisalabad**
+- 🌱 I’m currently learning **Advance Next JS & Python at PIAIC, NTU Campus Faisalabad**
 
 - 👯 I’m looking to collaborate on **HTML, CSS, Javascript & TypeScript**
 
