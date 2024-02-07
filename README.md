@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/imchatha" target="blank"><img src="https://img.shields.io/twitter/follow/imchatha?logo=twitter&style=for-the-badge" alt="imchatha" /></a> </p>
 
-- 🔭 I’m currently working on **Next JS Projects & Generative AI (Beginner to Intermediate level)**
+- 🔭 I’m currently working on **Next JS Projects and Generative AI (Beginner to Intermediate level)**
 
 - 🌱 I’m currently learning **Advance Next JS and Python at PIAIC, NTU Faisalabad**
 
-- 👯 I’m looking to collaborate on **HTML, CSS, Javascript & TypeScript**
+- 👯 I’m looking to collaborate on **HTML, CSS, Javascript and TypeScript**
 
 - 💬 Ask me about **HTML, CSS and Javascript**
 
