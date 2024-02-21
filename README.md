@@ -38,7 +38,16 @@
 
 
 <br />
-  
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+<br />
+
 <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=irfanchatha&column=6&theme=algolia" alt="irfanchathaTrophy" /></p>
 
 ![john's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=irfanchatha&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
