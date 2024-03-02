@@ -1,22 +1,22 @@
 ![NewTopWave](https://user-images.githubusercontent.com/81550376/180223627-d18d8aeb-4f5e-4715-94db-65b1b85822f1.svg)
 <h1 align="center">Hi 👋, I'm Irfan Maqbool Chatha</h1>
-<h3 align="center">Senior IT Professional, Web and Generative AI Developer</h3>
+<h3 align="center">Senior IT Professional, Web & Generative AI Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanchatha&label=Profile%20views&color=0e75b6&style=flat" alt="irfanchatha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/imchatha" target="blank"><img src="https://img.shields.io/twitter/follow/imchatha?logo=twitter&style=for-the-badge" alt="imchatha" /></a> </p>
 
-- 🔭 I’m currently working on **Next JS Projects and Generative AI (Intermediate level)**
+- 🔭 I’m currently working on **Next JS Projects & Generative AI (Intermediate level)**
 
-- 🌱 I’m currently learning **Advance Next JS and Python at PIAIC, NTU Faisalabad**
+- 🌱 I’m currently learning **Advance Next JS & Python at PIAIC, NTU Faisalabad**
 
-- 👯 I’m looking to collaborate on **HTML, CSS, Javascript and TypeScript**
+- 👯 I’m looking to collaborate on **HTML, CSS, Javascript & TypeScript**
 
-- 💬 Ask me about **HTML, CSS, Javascript and Integration of OpenAI API**
+- 💬 Ask me about **HTML, CSS, Javascript & Integration of OpenAI API**
 
 - 📫 How to reach me **imchatha@hotmail.com**
 
-- ⚡ IT Experience **20+ years in Development, Networking and Administration**
+- ⚡ IT Experience **20+ years in Development, Networking & Administration**
 
 <h3 align="left">Connect with me::</h3>
 <p align="left">
