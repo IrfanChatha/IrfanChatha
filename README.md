@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advance Next JS & Python at PIAIC, National Textile University, Faisalabad**
 
-- 👯 I’m looking to collaborate on **HTML, CSS, Javascript & TypeScript**
+- 👯 I’m looking to collaborate on **HTML, CSS & Javascript**
 
 - 💬 Ask me about **HTML, CSS, Javascript & Integration of OpenAI API**
 
