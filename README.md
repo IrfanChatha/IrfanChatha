@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript & Integration of OpenAI API**
 
-- 📫 How to reach me **imchatha@hotmail.com**; **chatha@yahoo.com**
+- 📫 How to reach me **imchatha@hotmail.com**
 
 - ⚡ IT Experience **20+ years in Development, Networking & Administration**
 
