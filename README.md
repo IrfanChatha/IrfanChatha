@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Next JS Projects & Cloud Native Applied Generative AI projects**
 
-- 🌱 I’m currently learning **Advance Next JS & Python at PIAIC, Fsd**
+- 🌱 I’m currently learning **Advance Next JS & Python at PIAIC, Faisalabad**
 
 - 👯 I’m looking to collaborate on **HTML, CSS, Javascript & Typescript**
 
