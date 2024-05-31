@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advance Next JS & Python at PIAIC, Faisalabad.   https://leetcode.com/u/imchatha/**
 
-- 👯 I’m looking to collaborate on **HTML, CSS, Javascript**
+- 👯 I’m looking to collaborate on **HTML, CSS and Javascript**
 
 - 💬 Ask me about **HTML, CSS, Javascript & Integration of OpenAI API**
 
