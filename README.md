@@ -1,6 +1,6 @@
 ![NewTopWave](https://user-images.githubusercontent.com/81550376/180223627-d18d8aeb-4f5e-4715-94db-65b1b85822f1.svg)
 <h1 align="center">Hi 👋, I'm Irfan Maqbool Chatha</h1>
-<h3 align="center">Senior IT Professional, Web and Generative AI Engineer</h3>
+<h3 align="center">Senior IT Professional, Web Generative AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanchatha&label=Profile%20views&color=0e75b6&style=flat" alt="irfanchatha" /> </p>
 
