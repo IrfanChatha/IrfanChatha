@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Irfan Maqbool Chatha</h1>
 <h3 align="center">Senior IT Professional, Web & Generative AI Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanchatha&label=Profile%20views&color=0e75b6&style=flat" alt="irfanchatha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanchatha&label=Profile%20views&color=0e75b6&style=flat" alt="IrfanChatha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/imchatha" target="blank"><img src="https://img.shields.io/twitter/follow/imchatha?logo=twitter&style=for-the-badge" alt="imchatha" /></a> </p>
 
