@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **HTML, CSS & Javascript**
 
-- 💬 Ask me about **HTML, CSS, Javascript & Integration of OpenAI APIs**
+- 💬 Ask me about **HTML, CSS, JavaScript & Integration of OpenAI APIs**
 
 - 📫 How to reach me **imchatha@hotmail.com**
 
