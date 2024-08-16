@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/imchatha" target="blank"><img src="https://img.shields.io/twitter/follow/imchatha?logo=twitter&style=for-the-badge" alt="imchatha" /></a> </p>
 
-- 🔭 I’m currently working on **NextJS & Cloud Native Applied Generative AI Projects**
+- 🔭 I’m currently working on **NextJS and Cloud Native Applied Generative AI Projects**
 
 - 🌱 I’m currently learning **Advance Next JS & Python at PIAIC NTU Faisalabad -- https://leetcode.com/u/imchatha/**
 
