@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **Advanced NextJS & Python at PIAIC NTU Faisalabad - https://leetcode.com/u/imchatha/**
 
+- ⚡ Also I am learning **Microsoft Azure AI Services & preparing for Azure-900 AI Fundamentals exam at GSTC, Faisalabad**
+
 - 👯 I’m looking to collaborate on **HTML, CSS & Javascript**
 
 - 💬 Ask me about **HTML, CSS, JavaScript & Integration of OpenAI and Gemini APIs**
