@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **HTML, CSS & Javascript**
 
-- 💬 Ask me about **HTML, CSS, JavaScript & Integration of OpenAI and Gemini APIs**
+- 💬 Ask me about **HTML, CSS, JavaScript & Integration of OpenAI and Google Gemini APIs**
 
 - 📫 How to reach me **imchatha@hotmail.com**
 
