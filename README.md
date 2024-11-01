@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **imchatha@hotmail.com**
 
-- ⚡ IT Experience **23+ years in Development, Networking & Administration**
+- ⚡ IT Experience **23+ years in Development, Networking and Administration**
 
 <h3 align="left">Connect with me::</h3>
 <p align="left">
